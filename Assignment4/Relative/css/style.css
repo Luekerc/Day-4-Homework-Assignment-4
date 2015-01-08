@@ -1,0 +1,26 @@
+.header {
+	background-color: green;
+	height: 40px;
+
+}
+
+
+.section {
+	background-color: gray;
+	width: 50%;
+	height: 80px;
+	margin: 0;
+}
+
+.aside {
+	background-color: yellow;
+	width: 50%;
+	height: 80px;
+	margin: 0;
+	position: relative; top: 10px; left: 10px;
+}
+
+.footer {
+	border: black dashed 1px;
+
+}
